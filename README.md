@@ -17,7 +17,7 @@ A fun Rock Paper Scissors game built using HTML, CSS and JavaScript.
 
 ## 🎮 Live Demo
 
-https://YOUR_USERNAME.github.io/rock-paper-scissors/
+https://samir-frontend.github.io/Rock-Paper-Scissor/
 
 ## 👨‍💻 Author
 
