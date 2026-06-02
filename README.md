@@ -1,23 +1,24 @@
-Rock-Paper-Scissor
+# Rock Paper Scissors
 
-A fun Tic Tac Toe game built using HTML, CSS and JavaScript.
+A fun Rock Paper Scissors game built using HTML, CSS and JavaScript.
 
-🚀 Features
+## 🚀 Features
 
-2 player game
-Win detection
-Restart button
+- Play against computer
+- Score tracking
+- Win/Lose/Draw detection
+- Interactive UI
 
-🛠️ Technologies Used
+## 🛠 Technologies Used
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 
-🚀 Live Demo
+## 🎮 Live Demo
 
-https://samir-frontend.github.io/tic-tac-toe/
+https://YOUR_USERNAME.github.io/rock-paper-scissors/
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Samir
